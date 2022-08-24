@@ -22,7 +22,7 @@
 
 ### HTML コードの受け渡し
 
-まず、p5.js WebEditor の、スケッチリストのページ (https://editor.p5js.org/\<ユーザー名\>/sketches) をブラウザで開いてください。
+まず、p5.js WebEditor の、スケッチリストのページ (https://editor.p5js.org/<ユーザー名\>/sketches) をブラウザで開いてください。
 
 次に、右クリックして現れるメニューから、開発者ツールを開いてください。
 
