@@ -1,0 +1,12 @@
+#venv, or cache
+__pycache__
+Include
+Lib
+Scripts
+pyvenv.cfg
+
+# output
+out.*
+
+# consts.py must be freezed.
+consts.py

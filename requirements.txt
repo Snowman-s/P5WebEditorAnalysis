@@ -1,0 +1,5 @@
+beautifulsoup4
+opencv-python
+Pillow
+spacy
+ja-ginza
